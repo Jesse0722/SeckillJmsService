@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.apache.activemq:activemq-core:${amq.version}">
+    <CLASSES>
+      <root url="jar://D:/maven/apache-maven-3.3.9-bin/apache-maven-3.3.9/LocalWare/org/apache/activemq/activemq-core/${amq.version}/activemq-core-${amq.version}.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://D:/maven/apache-maven-3.3.9-bin/apache-maven-3.3.9/LocalWare/org/apache/activemq/activemq-core/${amq.version}/activemq-core-${amq.version}-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://D:/maven/apache-maven-3.3.9-bin/apache-maven-3.3.9/LocalWare/org/apache/activemq/activemq-core/${amq.version}/activemq-core-${amq.version}-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
