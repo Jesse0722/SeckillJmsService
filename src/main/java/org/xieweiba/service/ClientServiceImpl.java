@@ -7,14 +7,14 @@ import org.xieweiba.model.Order;
 /**
  * Created by lijiajun1-sal on 2017/4/7.
  */
-public class ClinetServiceImpl implements ClientService {
+public class ClientServiceImpl implements ClientService {
     private static final String SIMPLE_QUEUE = "simple.queue";
     private static final String IN_QUEUE = "in.queue";
 
     private final JmsTemplate jmsTemplate;
 
     @Autowired
-    public ClinetServiceImpl(JmsTemplate jmsTemplate){
+    public ClientServiceImpl(JmsTemplate jmsTemplate){
         this.jmsTemplate=jmsTemplate;
     }
 

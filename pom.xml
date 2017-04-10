@@ -25,6 +25,11 @@
             <artifactId>spring-boot-starter</artifactId>
         </dependency>
         <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-web</artifactId>
+        </dependency>
+
+        <dependency>
             <groupId>org.springframework</groupId>
             <artifactId>spring-jms</artifactId>
         </dependency>
@@ -35,7 +40,6 @@
         <dependency>
             <groupId>org.apache.activemq</groupId>
             <artifactId>activemq-core</artifactId>
-            <version>${amq.version}</version>
         </dependency>
     </dependencies>
 </project>
